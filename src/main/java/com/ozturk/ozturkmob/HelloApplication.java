@@ -1,6 +1,6 @@
 package com.ozturk.ozturkmob;
 
-import com.pi4j.io.gpio.*;
+//import com.pi4j.io.gpio.*;
 import javafx.application.Application;
 import javafx.beans.binding.Bindings;
 import javafx.beans.property.DoubleProperty;

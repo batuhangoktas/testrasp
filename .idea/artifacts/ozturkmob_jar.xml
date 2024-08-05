@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ozturkmob:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ozturkmob_jar</output-path>
+    <root id="archive" name="ozturkmob.jar">
+      <element id="module-output" name="ozturkmob" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/20.0.1/javafx-fxml-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/20.0.1/javafx-controls-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/20.0.1/javafx-graphics-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/20.0.1/javafx-base-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/20.0.1/javafx-media-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/20.0.1/javafx-media-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/20.0.1/javafx-graphics-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-plugin-gpiod/2.5.1/pi4j-plugin-gpiod-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-core/2.5.1/pi4j-core-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/20.0.1/javafx-controls-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/2.0.12/slf4j-simple-2.0.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-library-gpiod/2.5.1/pi4j-library-gpiod-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../pi4j-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/20.0.1/javafx-base-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/pi4j/pi4j-plugin-raspberrypi/2.5.1/pi4j-plugin-raspberrypi-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/20.0.1/javafx-fxml-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
